@@ -3,7 +3,7 @@
 ![competition](pictures/competition.jpg)
 
 # Team "Kluzo" members 
-Vanja Kovinić, Vid Nikolić, Jefimija Najdić, Luka Lazarević and me.<br>
+Mihajlo Madžarević, Vid Nikolić, Jefimija Najdić, Luka Lazarević and me.<br>
 
 # The hackathon aka The Great Hacka 2023
 The idea for this competition was to predict the concentration of pollen for the upcoming 3 days based on the previous 10 days.<br>
